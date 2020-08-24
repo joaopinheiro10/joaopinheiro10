@@ -1,4 +1,4 @@
-### João Pinheiro
+### Hi !
 
 <p>I am a sports enthusiast, and so that love lead me to get a job as a Sports Analyst.<br>
 As time went by, another passion was growing: programming.<br>
