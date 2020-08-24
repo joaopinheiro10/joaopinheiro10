@@ -8,3 +8,5 @@ So I started my journey following that passion.<br></p>
 <p>Programming is fun, challenging, sometimes mind-blowing and chaotic. That’s where my super skills come into play. I am calm, thrive under pressure, always looking for new challenges and new skills to learn. When developing there are always new challenges coming, which is incredible!</p>
 <br>
 <p>I’m looking forward to what comes next.</p>
+
+[LinkedIn](https://www.linkedin.com/in/joaopinheiro10/)
