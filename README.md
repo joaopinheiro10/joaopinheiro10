@@ -1,8 +1,5 @@
 ### João Pinheiro
 
-<!--
-**joaopinheiro10/joaopinheiro10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p>I am a sports enthusiast, and so that love lead me to get a job as a Sports Analyst.<br>
 As time went by, another passion was growing: programming.<br>
 So I started my journey following that passion.<br></p>
