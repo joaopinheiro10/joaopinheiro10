@@ -13,5 +13,5 @@ So I started my journey following that passion.<br></p>
 
 #### Contacts:
 
-[LinkedIn](https://www.linkedin.com/in/joaopinheiro10/)
+[LinkedIn](https://www.linkedin.com/in/joaopinheiro10/)<br>
 <a href="mailto:joao_pinheiro10@hotmail.com">joao_pinheiro10@hotmail.com</a>
