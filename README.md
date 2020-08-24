@@ -11,4 +11,7 @@ So I started my journey following that passion.<br></p>
 <br>
 <p>I’m looking forward to what comes next.</p>
 
+#### Contacts:
+
 [LinkedIn](https://www.linkedin.com/in/joaopinheiro10/)
+<a href="mailto:joao_pinheiro10@hotmail.com">joao_pinheiro10@hotmail.com</a>
