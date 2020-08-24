@@ -1,5 +1,7 @@
 ### Hi !
 
+My name is João Pinheiro.
+
 <p>I am a sports enthusiast, and so that love lead me to get a job as a Sports Analyst.<br>
 As time went by, another passion was growing: programming.<br>
 So I started my journey following that passion.<br></p>
